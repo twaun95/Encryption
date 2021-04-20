@@ -1,13 +1,18 @@
-# Encryption
-encrypt and decrypt using various method with java.
+# Encryption and Decryption
+
+EXPLAIN
 
 ---
 
 ## BASE64
 
+
+
 ---
 
 ## DES
+
+
 
 ---
 
