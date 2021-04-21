@@ -1,6 +1,10 @@
 # Encryption and Decryption
 
-===
+- - -
+---
+***
+* * *
+*****
 
 ## 1. Base64
 8비트 이진데이터를 ASCII 문자열로 바꾸는 방식.
