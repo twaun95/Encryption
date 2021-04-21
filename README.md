@@ -2,7 +2,8 @@
 
 ## 1. Base64
 8비트 이진데이터를 ASCII 문자열로 바꾸는 방식
-https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FDhKIc%2FbtqC6P1AjX8%2FHXZAO93bdtqma76OiKJH00%2Fimg.png
+
+![image](https://user-images.githubusercontent.com/43190509/115522829-6b75b580-a2c7-11eb-8143-26c172a94060.png)
 
 
 ## 2. DES
