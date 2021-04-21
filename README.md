@@ -1,8 +1,8 @@
 # Encryption and Decryption
 <br>
 Base64, Huffman Code, DES(Data Encryption Standard) 알고리즘을 이용하여 암호화 및 복호화를 진행한다.
+
 ---
-<br>
 
 ## 1. Base64
 8비트 이진데이터를 ASCII 문자열로 바꾸는 방식.
